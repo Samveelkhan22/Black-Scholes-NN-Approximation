@@ -13,16 +13,6 @@ The goal is to develop, optimize, and evaluate a neural network model that appro
 
 ---
 
-## Project Structure  
-- **`code/`**: Contains Python notebooks (`.ipynb`) and scripts for training and testing the model.  
-- **`data/`**: Includes sample datasets and preprocessed data for model training.  
-- **`reports/`**:  
-  - Final report explaining the experiments and results.  
-  - Plots showcasing convergence, error metrics, and comparisons.  
-- **`README.md`**: This file.  
-
----
-
 ## Methodology  
 ### Part A: Parameter Exploration  
 1. **Layers**: Shallow vs. Deep networks (1 to 3 layers).  
